@@ -13,7 +13,8 @@ A wordlist of API names used for fuzzing web application APIs.
  3. On the "Positions" tab, set Attack type to "Cluster Bomb" 
  4. On the "Payloads" tab, select 1 for the fist Payload set drop-down, then select a Payload type of "Runtime file" and navigate to the directory you downloaded these text files to. Select "preambles.txt".
  5. Repeat step 4 by setting Payload set 2 to "actions.txt" and Payload set 3 to "objects.txt"
- 6. Start attack
+ 6. (optional step - add more payload sets and set them to "objects.txt" to test for multi-part objects like "UserAccount")
+ 7. Start attack
 
 ## Comments
 If you use this and it's helpful, I'd love to hear about it! (@dagorim). If you think I've missed any obvious word choices, I'd love to hear about that as well, or feel free to add them.
