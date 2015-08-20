@@ -16,6 +16,7 @@ creds
 custom
 customer
 customers
+details
 dir
 directory
 employee
