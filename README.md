@@ -3,8 +3,12 @@ A wordlist of API names used for fuzzing web application APIs.
 
 ## Contents
 * api_seen_in_wild.txt - This contains API function names I've seen in the wild.
-* actions.txt - API function name verbs
-* objects.txt - API function name nouns
+* actions.txt - All API function name verbs
+* objects.txt - All API function name nouns
+* actions-uppercase.txt - API function name verbs with leading character upper-case
+* actions-lowercase.txt - API function name verbs with leading character lower-case
+* objects-uppercase.txt - API function name nouns with leading character upper-case
+* objects-lowercase.txt - API function name nouns with leading character lower-case
 
 ## Usage
  1. In burpsuite, send an API request you want to fuzz to Intruder. 
