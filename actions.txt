@@ -166,6 +166,8 @@ recite
 Recite
 record
 Record
+recursive
+Recursive
 register
 Register
 remove
