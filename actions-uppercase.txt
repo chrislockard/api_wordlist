@@ -103,6 +103,7 @@ Understand
 Undo
 Unqueue
 Update
+Upgrade
 Upload
 Upset
 Validate
