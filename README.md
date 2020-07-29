@@ -24,4 +24,4 @@ A wordlist of API names used for fuzzing web application APIs.
 
 ## Comments
 
-If you use this and it's helpful, I'd love to hear about it! (@unl0ckd). If you think I've missed any obvious word choices, I'd love to hear about that as well, or feel free to add them.
+If you use this and it's helpful, I'd love to hear about it! (@unl0ckd@fosstodon.org). If you think I've missed any obvious word choices, I'd love to hear about that as well, or feel free to add them.
