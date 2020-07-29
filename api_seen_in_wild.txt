@@ -7637,3 +7637,9 @@ api/metadata/v0/user/own
 api/metadata/v0/user/read
 api/preview/v0/
 api/search/v0/table
+/iot
+/iottoken
+/iotservice
+/iot_service
+/iot_integration
+/iot_dev
