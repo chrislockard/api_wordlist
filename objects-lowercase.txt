@@ -4,12 +4,16 @@ amount
 amounts
 api
 apis
+asset
+assets
 balance
 balances
 bar
 baz
 bio
 bios
+categories
+category
 channel
 channels
 chart
@@ -95,6 +99,8 @@ picture
 pictures
 pin
 pins
+point
+points
 post
 posts
 prod
