@@ -54,6 +54,7 @@ enable
 explode
 fabricate
 fashion
+fetch
 for
 forge
 form
