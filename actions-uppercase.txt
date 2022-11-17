@@ -54,6 +54,7 @@ Enable
 Explode
 Fabricate
 Fashion
+Fetch
 For
 Forge
 Form
