@@ -50,10 +50,13 @@ Dofor
 Dountil
 Dowhile
 Download
+Edit
 Enable
 Explode
+Export
 Fabricate
 Fashion
+Fetch
 For
 Forge
 Form

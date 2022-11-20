@@ -50,10 +50,13 @@ doFor
 doUntil
 doWhile
 download
+edit
 enable
 explode
+export
 fabricate
 fashion
+fetch
 for
 forge
 form
