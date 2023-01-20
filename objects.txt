@@ -132,6 +132,7 @@ api
 apl
 apm
 app
+appcert
 apple
 applet
 applets
@@ -313,6 +314,7 @@ certenroll
 certificate
 certificates
 certification
+certmgmt
 certs
 cfdocs
 cfg
@@ -929,6 +931,7 @@ install
 INSTALL_admin
 installation
 insurance
+integration
 intel
 interactive
 interface
@@ -947,6 +950,9 @@ inventory
 investors
 invitation
 invite
+iot
+iotservice
+iottoken
 ip
 ipod
 ipp
@@ -1808,6 +1814,7 @@ tmp
 tn
 toc
 today
+token
 tomcat-docs
 tool
 toolbar
@@ -1878,6 +1885,7 @@ usa
 usage
 User
 user
+usercert
 Username
 username
 Users
