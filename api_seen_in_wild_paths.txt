@@ -1,0 +1,16 @@
+/iot
+/iot_dev
+/iot_integration
+/iot_service
+/iotservice
+/iottoken
+/v1/centercode/configuration
+/v1/centercode/configuration/project
+/v1/centercode/configuration/project/{project_id}
+/v1/certificates/revoked
+/v1/certificates/revoked
+/v1/certificates/revoked/remove
+/v1/certmgmt/appcert
+/v1/certmgmt/usercert
+/v1/maps/count
+/v1/notifications/history
